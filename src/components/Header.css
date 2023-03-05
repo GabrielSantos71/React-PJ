@@ -1,0 +1,22 @@
+header {
+    background: #181818;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h3{
+    color: #FFF;
+    margin: 0;
+}
+
+options {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+options a {
+    text-decoration: none;
+    color: #FFF;
+}

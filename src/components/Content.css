@@ -1,0 +1,22 @@
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+main div {
+    max-width: 900px;
+    margin: auto 0;
+}
+
+main div p {
+    margin-bottom: 5vh;
+}
+
+main div .btn {
+    background-color: #181818;
+    color: #fff;
+    padding: 12px;
+    border-radius: 9px;
+    margin-right: 10px;
+}
